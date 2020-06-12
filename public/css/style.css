@@ -1,0 +1,19 @@
+body {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+  background:#0019CC;
+  color:#0019CC;
+}
+
+.person {
+  width:100px;
+  height:100px;
+  overflow: hidden;
+
+  color:#0019CC;
+  background:#F7CE4C;
+  border-radius:50%;
+  font-size:12px;
+
+  line-height:100px;
+  text-align:center;
+}
